@@ -1,0 +1,242 @@
+.box
+{
+    height: 100px;
+    width: 100%;
+    border: 0px solid;
+    
+}
+.col
+{
+    height: 100px;
+    width: 50%;
+    background-color: rgb(215, 232, 240);
+    float: left;
+}
+.text
+{
+    height: 100px;
+    width: 50%;
+   
+}
+.text i
+{
+    top: 30px;
+    left: 35px;
+    position: relative;
+    font-size: 35px;
+}
+font{
+    top: 5px;
+    left: 50px;
+    position: relative;
+    letter-spacing: 2px;
+    font-size: 30px;
+}
+.tax
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+
+}
+.tax div
+{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    color: rgb(46, 42, 42);
+    font-size: 1em;
+    font-family: sans-serif;
+    font-weight: 200;
+}
+.tax div:hover
+{
+    color: white;
+}
+.color1
+{
+    background-color: rgb(57, 156, 236);
+}
+.color2:hover
+{
+    background-color: red;
+}
+.color3:hover
+{
+    background-color: orange;
+}
+.color4:hover
+{
+    background-color: teal;
+}
+.color5:hover
+{
+
+    background-color: rgb(31, 100, 180);
+}
+.design
+{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 300px 300px 300px 300px;
+    gap: 0px;
+    
+}
+.bebar1
+{
+    background-image: url(img1.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+  .pink
+  {
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    display: grid;
+    align-items: center;
+    transition: .5s;
+    font-family: sans-serif;
+  }
+  .pink:hover
+  {
+    span{
+        font-size: 15px;
+    }
+  }
+  .bebar2
+  {
+      background-image: url(img2.jpg);
+      background-position: center;
+      background-size: cover;
+  }  
+  .bebar3
+  {
+      background-image: url(img3.jpg);
+      background-position: center;
+      background-size: cover;
+  }
+  .bebar4
+  {
+      background-image: url(img4.jpg);
+      background-position: center;
+      background-size: cover;
+  }  
+  .bebar5
+  {
+      background-image: url(img5.jpg);
+      background-position: center;
+      background-size: cover;
+  }     
+  .bebar6
+  {
+      background-image: url(img6.jpg);
+      background-position: center;
+      background-size: cover;
+  }  
+  .bebar7
+  {
+      background-image: url(img7.jpg);
+      background-position: center;
+      background-size: cover;
+  }  
+  .bebar8
+  {
+      background-image: url(img8.jpg);
+      background-position: center;
+      background-size: cover;
+  }
+  .bebar9
+  {
+      background-image: url(img9.jpg);
+      background-position: center;
+      background-size: cover;
+  }
+  .bebar10
+  {
+      background-image: url(img10.jpg);
+      background-position: center;
+      background-size: cover;
+  }    
+  .bebar11
+  {
+      background-image: url(img11.jpg);
+      background-position: center;
+      background-size: cover;
+  }    
+  .bebar12
+  {
+      background-image: url(img12.jpg);
+      background-position: center;
+      background-size: cover;
+  }  
+  .bebar13
+  {
+      background-image: url(tm-img-13-tn.jpg);
+      background-position: center;
+      background-size: cover;
+  }  
+  .bebar14
+  {
+      background-image: url(tm-img-14-tn.jpg);
+      background-position: center;
+      background-size: cover;
+  }  
+  .bebar15
+  {
+      background-image: url(tm-img-15-tn.jpg);
+      background-position: center;
+      background-size: cover;
+  }  
+  .bebar16
+  {
+      background-image: url(tm-img-16-tn.jpg);
+      background-position: center;
+      background-size: cover;
+  }
+  span
+  {
+    font-size: 0px;
+    transition: 0.5s;
+  }
+  .bottom
+{
+    height: 200px;
+    width: 100%;
+    text-align: center;
+    display: grid;
+    align-items: center;
+}
+.box1
+  {
+    height: 100px;
+    width: 100%;
+    background-color: skyblue;
+    
+  }  
+.box1 i
+  {
+    background-color: white;
+    margin: 20px 10px;
+    font-size: 30px;
+    padding: 15px;
+    border-radius: 10px;
+    transition: .5s;
+    
+  }
+  .box1 i:hover
+  {
+    background-color: black;
+    color: #fff;
+  }
+.footer
+  {
+    height: 100px;
+    width: 100%;
+    background-color: rgb(89, 198, 241);
+    display: grid;
+    align-items: center;
+  }
+  
+ 
